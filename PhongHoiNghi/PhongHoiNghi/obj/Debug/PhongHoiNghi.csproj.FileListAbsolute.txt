@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\bin\Debug\PhongHoiNghi.exe.config
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\bin\Debug\PhongHoiNghi.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\bin\Debug\PhongHoiNghi.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\obj\Debug\PhongHoiNghi.frmPhongHoiNghi.resources
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\obj\Debug\PhongHoiNghi.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\obj\Debug\PhongHoiNghi.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\obj\Debug\PhongHoiNghi.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\obj\Debug\PhongHoiNghi.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\NETBuoi12\PhongHoiNghi\PhongHoiNghi\obj\Debug\PhongHoiNghi.csprojResolveAssemblyReference.cache
